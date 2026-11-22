@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Jennings Cleaning emblem">
+  <circle cx="32" cy="32" r="28.5" fill="none" stroke="#F6B831" stroke-width="3"/>
+  <path d="M32 11.5c0 0-13.2 17.8-13.2 26.2a13.2 13.2 0 0 0 26.4 0c0-8.4-13.2-26.2-13.2-26.2z" fill="#F6B831"/>
+  <rect x="19" y="38.5" width="26" height="4.8" rx="2.4" fill="#FFFFFF"/>
+  <rect x="29.4" y="43.3" width="5.2" height="9.6" rx="2.6" fill="#FFFFFF"/>
+  <path d="M48.6 13.8l1.6 3.9 3.9 1.6-3.9 1.6-1.6 3.9-1.6-3.9-3.9-1.6 3.9-1.6 1.6-3.9z" fill="#FFFFFF"/>
+</svg>

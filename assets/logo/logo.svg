@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 72" role="img" aria-label="Jennings Cleaning — South East Kent">
+  <circle cx="32" cy="36" r="28.5" fill="none" stroke="#F6B831" stroke-width="3"/>
+  <path d="M32 15.5c0 0-13.2 17.8-13.2 26.2a13.2 13.2 0 0 0 26.4 0c0-8.4-13.2-26.2-13.2-26.2z" fill="#F6B831"/>
+  <rect x="19" y="42.5" width="26" height="4.8" rx="2.4" fill="#212121"/>
+  <rect x="29.4" y="47.3" width="5.2" height="9.6" rx="2.6" fill="#212121"/>
+  <path d="M48.6 17.8l1.6 3.9 3.9 1.6-3.9 1.6-1.6 3.9-1.6-3.9-3.9-1.6 3.9-1.6 1.6-3.9z" fill="#212121"/>
+  <text x="76" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" letter-spacing="1" fill="#212121">JENNINGS</text>
+  <text x="76" y="55" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" letter-spacing="5" fill="#F6B831">CLEANING</text>
+</svg>
